@@ -8,6 +8,9 @@
 #DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,miss
 
+
+
+DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
