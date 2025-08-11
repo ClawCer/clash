@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,miss
 
 
 DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
@@ -47,3 +48,4 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
