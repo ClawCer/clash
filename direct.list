@@ -1,0 +1,5 @@
+- DOMAIN,developer.amd.com.cn,DIRECT
+- DOMAIN-SUFFIX,laneai.dev,DIRECT
+- DOMAIN-KEYWORD,yingyuzhenti,DIRECT
+- DOMAIN-SUFFIX,overleaf.com,DIRECT
+- SRC-IP-CIDR,218.199.69.53/32,DIRECT
